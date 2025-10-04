@@ -70,7 +70,7 @@
 
 | Project                                           | Stack    | What it shows                                           |
 | ------------------------------------------------- | -------- | ------------------------------------------------------- |
-| [OmniFood]([https://github.com/ap-square/algo-lab](https://github.com/apsquare/OmniFood)) | HTML,CSS | Clear and elegant implementation of HTML and CSS styles |
+| [OmniFood](https://github.com/apsquare/OmniFood) | HTML,CSS | Clear and elegant implementation of HTML and CSS styles |
 | [RockAndRoll](https://github.com/apsquare/RockAndRoll)|HTML,CSS,JavaScript|Use of core html and css with the use of basic javascript|
 |[GuessTheNumber](https://github.com/apsquare/GuessTheNumber)|HTML,CSS,JavaScript|Use of core html and css with the use of basic javascript|
 
