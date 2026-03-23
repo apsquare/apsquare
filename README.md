@@ -115,17 +115,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=apsquare" alt="_ap_square_'s GitHub stats" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsquare&langs_count=8" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=apsquare"/>
 </p>
-
 <h2 align="center">🌐 Connect with Me</h2>
-
 <p align="center">
   <a href="mailto:mail2anantpathak@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
