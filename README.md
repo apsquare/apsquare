@@ -89,15 +89,19 @@
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project                                                      | Stack               | What it shows                                             |
-| ------------------------------------------------------------ | ------------------- | --------------------------------------------------------- |
-| [OmniFood](https://github.com/apsquare/OmniFood)             | HTML,CSS            | Clear and elegant implementation of HTML and CSS styles   |
-| [RockAndRoll](https://github.com/apsquare/RockAndRoll)       | HTML,CSS,JavaScript | Use of core html and css with the use of basic javascript |
-| [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) | HTML,CSS,JavaScript | Use of core html and css with the use of basic javascript |
-
----
+| Project | Stack | Highlights |
+| --- | --- | --- |
+| [cybernate-it-v1](https://github.com/apsquare/cybernate-it-v1) | React · Vite · JS · CSS Modules | ✨ Redesigned a consultancy website with modern UI, smooth animations, and scalable component architecture |
+| [forkify](https://github.com/apsquare/forkify) | JavaScript · HTML · Sass | 🔗 Built a dynamic recipe app with API integration, bookmarking, pagination, and local storage |
+| [mapty-](https://github.com/apsquare/mapty-) | JavaScript · Leaflet · HTML · CSS | 🗺️ Developed a workout tracker using geolocation, OOP, and interactive maps |
+| [ChildrensBank](https://github.com/apsquare/ChildrensBank) | JavaScript · HTML · CSS | 💳 Simulated a banking system with dynamic transactions, account logic, and UI updates |
+| [cpp_problem_sets](https://github.com/apsquare/cpp_problem_sets) | C++ | 🧠 Consistent DSA practice showcasing strong problem-solving and algorithmic thinking |
+| [OmniFood](https://github.com/apsquare/OmniFood) | HTML · CSS | 🎨 Clean and responsive UI with strong fundamentals in layout and design |
+| [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) | JavaScript · HTML · CSS | 🎯 Interactive number guessing game with DOM manipulation and game logic |
+| [RockAndRoll](https://github.com/apsquare/RockAndRoll) | JavaScript · HTML · CSS | 🎮 Mini-game demonstrating event handling and responsive design |
+| [apsquare](https://github.com/apsquare/apsquare) | Markdown | 🌐 Personal GitHub profile showcasing projects, skills, and developer journey |
 
 ### 🧩 Practice & Learning
 
