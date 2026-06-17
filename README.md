@@ -142,7 +142,6 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=apsquare&show_icons=true&hide_border=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsquare&layout=compact&hide_border=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=apsquare&hide_border=true"/>
 </p>
 
 ---
