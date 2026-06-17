@@ -47,35 +47,59 @@
 
 ## 🛠️ Skills
 
-**Languages**
+### 💻 Programming Languages
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white">
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 </p>
 
-**Tools**
+### 🌐 Frontend Development
+
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white">
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+</p>
+
+### 📊 Data Engineering & Analytics
+
+<p>
+  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white">
+  <img alt="Boto3" src="https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white">
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
+</p>
+
+### 🔧 Developer Tools
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-00C853?style=plastic&logo=intellijidea&logoColor=white&labelColor=black">
-  <img alt="CodeLite" src="https://img.shields.io/badge/CodeLite-FFD600?style=plastic&logo=codelite&logoColor=black">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white">
+  <img alt="CodeLite" src="https://img.shields.io/badge/CodeLite-FFD600?style=plastic&logo=codelite&logoColor=black">
 </p>
 
 ## 🧠 Core Concepts
@@ -83,6 +107,9 @@
 - 🧩 **OOP**: Encapsulation, Inheritance, Polymorphism, Abstraction
 - 🧪 **Testing & Debugging**: Unit Testing, Edge Cases, Basic Test Design
 - 🌐 **Web Design & Development**
+- ☁️ **Cloud Computing**: Building and deploying scalable applications on cloud platforms
+- 🔄 **CI/CD**: Automating build, testing, and deployment workflows
+- ⚙️ **DevOps**: Streamlining development and operations through automation and collaboration
 - 🧠 **Data Structures & Algorithms (DSA)**: Daily problem solving on LeetCode
 - ⚡ Strong focus on **Problem Solving & Logical Thinking**
 
