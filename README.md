@@ -127,7 +127,6 @@
 | [OmniFood](https://github.com/apsquare/OmniFood) | HTML · CSS | 🎨 Clean and responsive UI with strong fundamentals in layout and design |
 | [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) | JavaScript · HTML · CSS | 🎯 Interactive number guessing game with DOM manipulation and game logic |
 | [RockAndRoll](https://github.com/apsquare/RockAndRoll) | JavaScript · HTML · CSS | 🎮 Mini-game demonstrating event handling and responsive design |
-| [apsquare](https://github.com/apsquare/apsquare) | Markdown | 🌐 Personal GitHub profile showcasing projects, skills, and developer journey |
 
 ### 🧩 Practice & Learning
 
