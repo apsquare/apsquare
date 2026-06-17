@@ -57,7 +57,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Web Development
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
@@ -65,6 +65,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
 </p>
 
 ### ☁️ Cloud & DevOps
