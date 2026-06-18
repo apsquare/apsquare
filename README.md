@@ -128,6 +128,7 @@
 | [OmniFood](https://github.com/apsquare/OmniFood) | HTML · CSS | 🎨 Clean and responsive UI with strong fundamentals in layout and design |
 | [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) | JavaScript · HTML · CSS | 🎯 Interactive number guessing game with DOM manipulation and game logic |
 | [RockAndRoll](https://github.com/apsquare/RockAndRoll) | JavaScript · HTML · CSS | 🎮 Mini-game demonstrating event handling and responsive design |
+| [Campus_Lost_And_Found_Application](https://github.com/apsquare/Campus_Lost_And_Found_Application) | React · Vite · React Router · Context API · CSS | 🎓 Campus-wide lost & found platform with USN-based authentication, item reporting, real-time chat, notifications, admin dashboard, leaderboard, and resolution tracking |
 
 ### 🧩 Practice & Learning
 
