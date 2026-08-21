@@ -1,180 +1,79 @@
-<!-- Profile Photo -->
-<p align="center">
-  <img src="assets/image.jpeg" alt="ap_square profile photo" width="200" style="border-radius:35px; box-shadow:0 0 10px rgba(0,0,0,0.25);" />
-</p>
+<!--
+  Once you've uploaded github-banner.png to assets/banner.png in this repo,
+  delete the profile-photo block below and uncomment this line instead:
 
-<h1 align="center"><strong>Hi, I'm ap_square 👋</strong></h1>
-<p align="center">
-  Student @ <b>Sir M. Visvesvaraya Institute of Technology (SMVIT), Bengaluru</b> 📚
-</p>
+  <img src="assets/banner.png" alt="ap_square" width="100%" />
+-->
 
 <p align="center">
-  <a href="mailto:mail2anantpathak@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/ap-square-a9074037b/">LinkedIn</a> •
-  <a href="https://x.com/_ap_square_">X (Twitter)</a> •
-  <a href="https://github.com/ap-square">GitHub</a>
+  <img src="assets/image.jpeg" alt="ap_square" width="180" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">ap_square</h1>
+
+<p align="center">
+  B.E. Computer Science &nbsp;·&nbsp; SMVIT, Bengaluru &nbsp;·&nbsp; Class of 2029
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bengaluru-1f6feb?style=flat&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-Open-brightgreen?style=flat&logo=handshake" />
-  <img src="https://komarev.com/ghpvc/?username=ap-square&style=flat&color=blue" alt="profile views"/>
+  <a href="mailto:mail2anantpathak@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/apsquare/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@ap_squaree">YouTube</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/apsquare/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://x.com/_ap_square_">X</a>
 </p>
 
 ---
 
+> I build things end to end, and the part I enjoy most is understanding **why** something works — not just getting it to work.
 
-## 🎯 About Me
-
-- 🎓 **B.E. Student** at **SMVIT, Bengaluru**
-- 🧠 Strong understanding of **Object-Oriented Programming (OOP)**
-- 🔍 Knowledge of **Software Testing & Debugging**
-- 🌐 Proficient with **Git & GitHub** for version control and collaboration
-- 💻 Good understanding of **Web Development** and **Databases**
-- 💬 Languages: **English**, **Hindi**
-- 🤝 Always eager to **collaborate** with like-minded people
+I work across three areas because they connect. A React front end, a containerised deploy and a well-modelled Postgres table are the same problem seen from different angles, and knowing all three makes me better at each one.
 
 ---
 
-## 🚀 What I Bring
+## What I work with
 
-- Clean and structured coding practices
-- Problem-solving mindset
-- Continuous learning attitude
-- Team collaboration skills
-
----
-
-## 🛠️ Skills
-
-### 💻 Programming Languages
-
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-</p>
-
-### 📊 Data Engineering & Analytics
-
-<p>
-  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white">
-  <img alt="Boto3" src="https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white">
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
-</p>
-
-### 🔧 Developer Tools
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-00C853?style=plastic&logo=intellijidea&logoColor=white&labelColor=black">
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white">
-  <img alt="CodeLite" src="https://img.shields.io/badge/CodeLite-FFD600?style=plastic&logo=codelite&logoColor=black">
-</p>
-
-## 🧠 Core Concepts
-
-- 🧩 **OOP**: Encapsulation, Inheritance, Polymorphism, Abstraction
-- 🧪 **Testing & Debugging**: Unit Testing, Edge Cases, Basic Test Design
-- 🌐 **Web Design & Development**
-- ☁️ **Cloud Computing**: Building and deploying scalable applications on cloud platforms
-- 🔄 **CI/CD**: Automating build, testing, and deployment workflows
-- ⚙️ **DevOps**: Streamlining development and operations through automation and collaboration
-- 🧠 **Data Structures & Algorithms (DSA)**: Daily problem solving on LeetCode
-- ⚡ Strong focus on **Problem Solving & Logical Thinking**
+| | |
+| --- | --- |
+| **Full-stack** | React · Vite · Redux · Tailwind · Node.js · JavaScript · HTML · CSS |
+| **Cloud & DevOps** | AWS · Docker · Terraform · GitHub Actions · Linux · CI/CD |
+| **Data engineering** | Python · SQL · PostgreSQL · Airflow · dbt · Snowflake · Pandas |
+| **Foundations** | C · C++ · Java · OOP · Testing & debugging · DSA |
+| **Tools** | Git · GitHub · VS Code · IntelliJ IDEA · PyCharm |
 
 ---
 
-## 🚀 Featured Projects
+## Selected work
 
-| Project | Stack | Highlights |
+| Project | Stack | What it does |
 | --- | --- | --- |
-| [cybernate-it-v1](https://github.com/apsquare/cybernate-it-v1) | React · Vite · JS · CSS Modules | ✨ Redesigned a consultancy website with modern UI, smooth animations, and scalable component architecture |
-| [forkify](https://github.com/apsquare/forkify) | JavaScript · HTML · Sass | 🔗 Built a dynamic recipe app with API integration, bookmarking, pagination, and local storage |
-| [mapty-](https://github.com/apsquare/mapty-) | JavaScript · Leaflet · HTML · CSS | 🗺️ Developed a workout tracker using geolocation, OOP, and interactive maps |
-| [ChildrensBank](https://github.com/apsquare/ChildrensBank) | JavaScript · HTML · CSS | 💳 Simulated a banking system with dynamic transactions, account logic, and UI updates |
-| [cpp_problem_sets](https://github.com/apsquare/cpp_problem_sets) | C++ | 🧠 Consistent DSA practice showcasing strong problem-solving and algorithmic thinking |
-| [OmniFood](https://github.com/apsquare/OmniFood) | HTML · CSS | 🎨 Clean and responsive UI with strong fundamentals in layout and design |
-| [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) | JavaScript · HTML · CSS | 🎯 Interactive number guessing game with DOM manipulation and game logic |
-| [RockAndRoll](https://github.com/apsquare/RockAndRoll) | JavaScript · HTML · CSS | 🎮 Mini-game demonstrating event handling and responsive design |
-| [Campus_Lost_And_Found_Application](https://github.com/apsquare/Campus_Lost_And_Found_Application) | React · Vite · React Router · Context API · CSS | 🎓 Campus-wide lost & found platform with USN-based authentication, item reporting, real-time chat, notifications, admin dashboard, leaderboard, and resolution tracking |
+| [**Campus Lost & Found**](https://github.com/apsquare/Campus_Lost_And_Found_Application) | React · Vite · React Router · Context API | Campus-wide platform with USN-based auth, item reporting, real-time chat between finders and owners, notifications, an admin dashboard, a leaderboard and resolution tracking |
+| [**Food Delivery Analytics**](https://github.com/apsquare/food_delivery_analytics_data_engineering_pipeline_on_aws) | Python · AWS | A data-engineering pipeline that turns raw delivery data into analytics-ready tables |
+| [**cybernate-it**](https://github.com/apsquare/cybernate-it-v1) | React · Vite · CSS Modules | Consultancy website rebuilt around a clean UI, smooth interactions and a scalable component architecture |
+| [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
+| [**little-cpp-adventures**](https://github.com/apsquare/little-cpp-adventures) | C++ | A problem-solving corner where bugs are expected and edge cases are suspicious |
+| [**mapty**](https://github.com/apsquare/mapty-) | JavaScript · Leaflet | Workout tracker built on geolocation, class-based OOP and interactive maps |
+| [**forkify**](https://github.com/apsquare/forkify) | JavaScript · Sass | Recipe app with API integration, bookmarking, pagination and local storage |
+| [**OmniFood**](https://github.com/apsquare/OmniFood) | HTML · CSS | Responsive layout and typography fundamentals, hand-written |
 
-### 🧩 Practice & Learning
-
-- Daily DSA drills (arrays, strings, recursion, trees, graphs)
-- Weekly mini projects
-- Code reviews on friends’ PRs to learn collaborative development
+Smaller builds: [ChildrensBank](https://github.com/apsquare/ChildrensBank) · [RockAndRoll](https://github.com/apsquare/RockAndRoll) · [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) · [Simon_Game](https://github.com/apsquare/Simon_Game)
 
 ---
 
-### 📊 GitHub Stats
+## How I practise
+
+- Daily DSA drills — arrays, strings, recursion, trees, graphs
+- Weekly mini projects, shipped rather than abandoned
+- Code review on friends' PRs, to learn how collaboration actually works
+- I document what I build on [YouTube](https://www.youtube.com/@ap_squaree) — the projects, the mistakes, and what I'd do differently
+
+---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=apsquare&show_icons=true&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsquare&layout=compact&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=apsquare&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsquare&layout=compact&hide_border=true" />
 </p>
-
----
-
-<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-
-<p align="center">
-
-<a href="mailto:mail2anantpathak@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mail2anantpathak-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ap-square-a9074037b/">
-  <img src="https://img.shields.io/badge/LinkedIn-ap--square-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/_ap_square_">
-  <img src="https://img.shields.io/badge/X-@_ap_square_-000000?style=flat-square&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/apsquare/">
-  <img src="https://img.shields.io/badge/LeetCode-apsquare-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-
+  <sub>Open to internships and collaboration · Bengaluru, or remote</sub>
 </p>
-
-</p>
-
----
-
-⭐ *Always building. Always learning.*
-
----
