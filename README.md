@@ -24,17 +24,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Email-E2B26E?style=flat-square&logo=gmail&logoColor=1B2430" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/apsquare/"><img src="https://img.shields.io/badge/LinkedIn-1B2430?style=flat-square&logo=linkedin&logoColor=E2B26E" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/apsquare/"><img src="https://img.shields.io/badge/LinkedIn-E2B26E?style=flat-square&logo=linkedin&logoColor=1B2430" alt="LinkedIn" /></a>
+  <a href="https://x.com/_ap_square_"><img src="https://img.shields.io/badge/X-1B2430?style=flat-square&logo=x&logoColor=E2B26E" alt="X" /></a>
   <a href="https://www.youtube.com/@ap_squaree"><img src="https://img.shields.io/badge/YouTube-1B2430?style=flat-square&logo=youtube&logoColor=E2B26E" alt="YouTube" /></a>
   <a href="https://leetcode.com/u/apsquare/"><img src="https://img.shields.io/badge/LeetCode-1B2430?style=flat-square&logo=leetcode&logoColor=E2B26E" alt="LeetCode" /></a>
-  <a href="https://x.com/_ap_square_"><img src="https://img.shields.io/badge/X-1B2430?style=flat-square&logo=x&logoColor=E2B26E" alt="X" /></a>
 </p>
 
 ---
 
 > [!NOTE]
-> **Available now** — open to software engineering internships and freelance front-end work, in Bengaluru or fully remote. [Email me](mailto:mail2anantpathak@gmail.com).
+> **Available now** — open to software engineering internships and freelance front-end work, in Bengaluru or fully remote. Reach me on [LinkedIn](https://www.linkedin.com/in/apsquare/).
 
 <img align="right" width="188" src="assets/Untitled%20design%20(1).png" alt="ap_square" />
 
@@ -150,9 +149,5 @@ A portfolio for a Solutions Architect, hand-built without a framework: scroll-dr
 </p>
 
 <p align="center">
-  <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Email%20me-E2B26E?style=for-the-badge&logo=gmail&logoColor=1B2430" alt="Email me" /></a>
-</p>
-
-<p align="center">
-  <sub>or find me on <a href="https://www.linkedin.com/in/apsquare/">LinkedIn</a> · <a href="https://x.com/_ap_square_">X</a> · <a href="https://www.youtube.com/@ap_squaree">YouTube</a></sub>
+  <sub>Message me on <a href="https://www.linkedin.com/in/apsquare/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/_ap_square_">X</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/@ap_squaree">YouTube</a></sub>
 </p>
