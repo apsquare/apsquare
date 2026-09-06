@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="The path data takes: React to Node or Flask to Airflow and dbt to Postgres">
   <defs>
     <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#151C24"/>
-      <stop offset="0.5" stop-color="#2E3945"/>
-      <stop offset="1" stop-color="#151C24"/>
+      <stop offset="0" stop-color="#232D38"/>
+      <stop offset="0.5" stop-color="#4A5766"/>
+      <stop offset="1" stop-color="#232D38"/>
     </linearGradient>
     <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
       <feGaussianBlur stdDeviation="3.5" result="b"/>
@@ -11,8 +11,8 @@
     </filter>
   </defs>
   <style>
-    .lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 10.5px; letter-spacing: 3px; fill: #6B7683; }
-    .cap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 9.5px; letter-spacing: 4px; fill: #454E58; }
+    .lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 10.5px; letter-spacing: 3px; fill: #7A8593; }
+    .cap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 9.5px; letter-spacing: 4px; fill: #4A535E; }
   </style>
 
   <rect width="880" height="150" rx="14" fill="#0D1218"/>
@@ -20,23 +20,23 @@
 
   <text class="cap" x="40" y="36">THE PATH DATA TAKES</text>
 
-  <line x1="80" y1="84" x2="800" y2="84" stroke="url(#rail)" stroke-width="1.5"/>
+  <line x1="80" y1="84" x2="800" y2="84" stroke="url(#rail)" stroke-width="1.75"/>
 
   <circle cx="80" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
-    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.02;0.18;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
-    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.03;0.18;1"/>
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;20;20" keyTimes="0;0.02;0.18;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.55;0;0" keyTimes="0;0.03;0.18;1"/>
   </circle>
   <circle cx="320" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
-    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.26;0.42;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
-    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.27;0.42;1"/>
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;20;20" keyTimes="0;0.26;0.42;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.55;0;0" keyTimes="0;0.27;0.42;1"/>
   </circle>
   <circle cx="560" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
-    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.54;0.70;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
-    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.55;0.70;1"/>
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;20;20" keyTimes="0;0.54;0.70;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.55;0;0" keyTimes="0;0.55;0.70;1"/>
   </circle>
   <circle cx="800" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
-    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.82;0.98;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
-    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.83;0.98;1"/>
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;20;20" keyTimes="0;0.82;0.98;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.55;0;0" keyTimes="0;0.83;0.98;1"/>
   </circle>
 
   <circle cx="80"  cy="84" r="4.5" fill="#0D1218" stroke="#E2B26E" stroke-width="1.4"/>
