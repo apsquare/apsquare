@@ -150,7 +150,7 @@ A portfolio for a Solutions Architect, hand-built without a framework: scroll-dr
 </p>
 
 <p align="center">
-  <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Email%20me%20at%20mail2anantpathak@gmail.com-E2B26E?style=for-the-badge&logo=gmail&logoColor=1B2430" alt="Email me at mail2anantpathak@gmail.com" /></a>
+  <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Email%20me-E2B26E?style=for-the-badge&logo=gmail&logoColor=1B2430" alt="Email me" /></a>
 </p>
 
 <p align="center">
