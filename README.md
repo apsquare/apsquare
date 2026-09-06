@@ -29,6 +29,9 @@
 
 ---
 
+> [!NOTE]
+> **Available now** — open to software engineering internships and freelance front-end work, in Bengaluru or fully remote. [Email me](mailto:mail2anantpathak@gmail.com).
+
 <img align="right" width="188" src="assets/Untitled%20design%20(1).png" alt="ap_square" />
 
 ### About
@@ -61,15 +64,22 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
 | [**little-cpp-adventures**](https://github.com/apsquare/little-cpp-adventures) | C++ | A problem-solving corner where bugs are expected and edge cases are suspicious |
+| [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
 | [**mapty**](https://github.com/apsquare/mapty-) | JavaScript · Leaflet | Workout tracker built on geolocation, class-based OOP and interactive maps |
 | [**forkify**](https://github.com/apsquare/forkify) | JavaScript · Sass | Recipe app with API integration, bookmarking, pagination and local storage |
 | [**OmniFood**](https://github.com/apsquare/OmniFood) | HTML · CSS | Responsive layout and typography fundamentals, hand-written |
 
-<sub><strong>CI/CD practice</strong> · <a href="https://github.com/apsquare/git_actions_workflow">git_actions_workflow</a> · <a href="https://github.com/apsquare/github_actions_objects">github_actions_objects</a> · <a href="https://github.com/apsquare/deep_dive">deep_dive</a> — workflows, jobs and contexts, plus a Vite app wired to build on every push</sub>
+<details>
+<summary><strong>More repositories</strong> — CI/CD practice and smaller builds</summary>
 
-<sub><strong>Smaller builds</strong> · <a href="https://github.com/apsquare/ChildrensBank">ChildrensBank</a> · <a href="https://github.com/apsquare/RockAndRoll">RockAndRoll</a> · <a href="https://github.com/apsquare/GuessTheNumber">GuessTheNumber</a> · <a href="https://github.com/apsquare/Simon_Game">Simon_Game</a></sub>
+<br />
+
+**CI/CD practice** · [git_actions_workflow](https://github.com/apsquare/git_actions_workflow) · [github_actions_objects](https://github.com/apsquare/github_actions_objects) · [deep_dive](https://github.com/apsquare/deep_dive) — workflows, jobs and contexts, plus a Vite app wired to build on every push
+
+**Smaller builds** · [ChildrensBank](https://github.com/apsquare/ChildrensBank) · [RockAndRoll](https://github.com/apsquare/RockAndRoll) · [GuessTheNumber](https://github.com/apsquare/GuessTheNumber) · [Simon_Game](https://github.com/apsquare/Simon_Game)
+
+</details>
 
 ---
 
@@ -121,8 +131,14 @@ A portfolio for a Solutions Architect, hand-built without a framework: scroll-dr
 ## Get in touch
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-E2B26E?style=flat-square" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/Available%20for-Freelance-E2B26E?style=flat-square" alt="Available for freelance" />
+  <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20or%20Remote-1B2430?style=flat-square" alt="Bengaluru or remote" />
+</p>
+
+<p align="center">
   <strong>Hiring an intern, or need a site built?</strong><br />
-  <sub>Open to internships, freelance front-end work and collaboration &nbsp;·&nbsp; Bengaluru, or remote</sub>
+  <sub>Tell me what you are building and I will tell you honestly whether I am the right person for it.</sub>
 </p>
 
 <p align="center">
