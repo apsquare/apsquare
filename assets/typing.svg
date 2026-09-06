@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="92" viewBox="0 0 820 92" role="img" aria-label="React front ends that stay maintainable; pipelines that turn raw data into answers; deploys that run themselves">
+  <defs>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E2B26E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E2B26E" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#E2B26E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
   <style>
     .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 20px; fill: #C3CCD6; }
     .a { fill: #E2B26E; }
@@ -8,43 +15,26 @@
   <rect x="0.5" y="0.5" width="819" height="91" rx="13.5" fill="none" stroke="#1B232C"/>
 
   <g opacity="0">
-    <animate attributeName="opacity" dur="18s" repeatCount="indefinite"
-      values="0;1;1;0;0" keyTimes="0;0.045;0.28;0.325;1"
-      calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-    <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite"
-      values="0 7;0 0;0 0;0 -7;0 -7" keyTimes="0;0.045;0.28;0.325;1"
-      calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-    <text class="t" x="410" y="48" text-anchor="middle">React front ends that stay <tspan class="a">maintainable</tspan></text>
+    <animate attributeName="opacity" dur="18s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.0278;0.3333;0.3611;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;0.0278;0.3333;0.3611;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <text class="t" x="410" y="49" text-anchor="middle">React front ends that stay <tspan class="a">maintainable</tspan></text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" dur="18s" repeatCount="indefinite"
-      values="0;0;1;1;0;0" keyTimes="0;0.3333;0.3783;0.6133;0.6583;1"
-      calcMode="spline" keySplines="0 0 1 1;0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-    <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite"
-      values="0 7;0 7;0 0;0 0;0 -7;0 -7" keyTimes="0;0.3333;0.3783;0.6133;0.6583;1"
-      calcMode="spline" keySplines="0 0 1 1;0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-    <text class="t" x="410" y="48" text-anchor="middle">Pipelines that turn raw data into <tspan class="a">answers</tspan></text>
+    <animate attributeName="opacity" dur="18s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.3333;0.3611;0.6667;0.6944;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite" values="0 8;0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;0.3333;0.3611;0.6667;0.6944;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <text class="t" x="410" y="49" text-anchor="middle">Pipelines that turn raw data into <tspan class="a">answers</tspan></text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" dur="18s" repeatCount="indefinite"
-      values="0;0;1;1;0;0" keyTimes="0;0.6667;0.7117;0.9467;0.9917;1"
-      calcMode="spline" keySplines="0 0 1 1;0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-    <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite"
-      values="0 7;0 7;0 0;0 0;0 -7;0 -7" keyTimes="0;0.6667;0.7117;0.9467;0.9917;1"
-      calcMode="spline" keySplines="0 0 1 1;0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-    <text class="t" x="410" y="48" text-anchor="middle">Deploys that <tspan class="a">run themselves</tspan></text>
+    <animate attributeName="opacity" dur="18s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.6667;0.6944;0.9722;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite" values="0 8;0 8;0 0;0 0;0 -8" keyTimes="0;0.6667;0.6944;0.9722;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <text class="t" x="410" y="49" text-anchor="middle">Deploys that <tspan class="a">run themselves</tspan></text>
   </g>
 
-  <line x1="410" y1="70" x2="320" y2="70" stroke="#E2B26E" stroke-width="1" opacity="0.5" stroke-dasharray="90" stroke-dashoffset="90">
-    <animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite"
-      values="90;0;0;90;90" keyTimes="0;0.14;0.82;0.97;1"
-      calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-  </line>
-  <line x1="410" y1="70" x2="500" y2="70" stroke="#E2B26E" stroke-width="1" opacity="0.5" stroke-dasharray="90" stroke-dashoffset="90">
-    <animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite"
-      values="90;0;0;90;90" keyTimes="0;0.14;0.82;0.97;1"
-      calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/>
-  </line>
+  <rect x="300" y="69.5" width="220" height="1" fill="url(#hair)" opacity="0">
+    <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0.9;0.9;0" keyTimes="0;0.12;0.86;1" calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1"/>
+    <animate attributeName="width" dur="6s" repeatCount="indefinite" values="0;220;220;0" keyTimes="0;0.12;0.86;1" calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1"/>
+    <animate attributeName="x" dur="6s" repeatCount="indefinite" values="410;300;300;410" keyTimes="0;0.12;0.86;1" calcMode="spline" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1"/>
+  </rect>
 </svg>
