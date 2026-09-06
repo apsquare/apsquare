@@ -90,13 +90,6 @@ Sites I have designed and shipped for real clients — brief, build, deploy.
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=apsquare&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=transparent&title_color=E2B26E&icon_color=E2B26E&text_color=808080" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsquare&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=E2B26E&text_color=808080" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
   <strong>Building something and want a hand with it?</strong><br />
   <sub>Open to internships, freelance work and collaboration &nbsp;·&nbsp; Bengaluru, or remote</sub><br /><br />
   <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-E2B26E?style=for-the-badge&logoColor=1B2430" alt="Say hello" /></a>
