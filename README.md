@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/typing.svg" width="700" alt="React front ends that stay maintainable · pipelines that turn raw data into answers · deploys that run themselves" />
+</p>
+
+<p align="center">
   <sub>B.E. COMPUTER SCIENCE &nbsp;·&nbsp; SMVIT, BENGALURU &nbsp;·&nbsp; CLASS OF 2029 &nbsp;·&nbsp; BENGALURU, INDIA</sub>
 </p>
 
@@ -84,6 +88,10 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
 ---
 
 ## Stack
+
+<p align="center">
+  <img src="assets/flow.svg" width="100%" alt="The path data takes: React → Node / Flask → Airflow · dbt → Postgres" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/React-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=react" alt="React" />
