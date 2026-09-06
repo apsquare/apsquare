@@ -5,11 +5,18 @@
 <h2 align="center">Hey, I'm ap_square 👋</h2>
 
 <p align="center">
-  <em>I build things end to end — and the part I enjoy most is understanding <strong>why</strong> they work.</em>
+  <strong>Full-stack developer</strong> — I build the browser, the pipeline and the box it runs in.
 </p>
 
 <p align="center">
-  <sub>B.E. COMPUTER SCIENCE &nbsp;·&nbsp; SMVIT, BENGALURU &nbsp;·&nbsp; CLASS OF 2029 &nbsp;·&nbsp; BENGALURU, IN</sub>
+  <sub>B.E. COMPUTER SCIENCE &nbsp;·&nbsp; SMVIT, BENGALURU &nbsp;·&nbsp; CLASS OF 2029 &nbsp;·&nbsp; BENGALURU, INDIA</sub>
+</p>
+
+<p align="center">
+  <a href="#featured-work"><strong>Work</strong></a> &nbsp;·&nbsp;
+  <a href="#stack"><strong>Stack</strong></a> &nbsp;·&nbsp;
+  <a href="#freelance--client-work"><strong>Freelance</strong></a> &nbsp;·&nbsp;
+  <a href="#get-in-touch"><strong>Contact</strong></a>
 </p>
 
 <p align="center">
@@ -22,21 +29,62 @@
 
 ---
 
-<img align="right" width="172" src="assets/ChatGPT%20Image%20Aug%2020,%202026,%2007_01_48%20PM.png" alt="ap_square" />
+<img align="right" width="188" src="assets/Untitled%20design%20(1).png" alt="ap_square" />
 
 ### About
 
-I work across three areas because they connect. A React front end, a containerised deploy and a well-modelled Postgres table are the same problem seen from different angles, and knowing all three makes me better at each one.
+Most of what I build starts as something that annoyed me — a form with thirty fields, a lost-and-found board nobody checks — and ends as something a real person can actually use.
 
-Most of what I build starts as something that annoyed me — a form with thirty fields, a lost-and-found board nobody checks — and ends as something a real person can use.
+I work across the front end, the cloud and the data layer because they are the same problem seen from three angles. A React component, a containerised deploy and a well-modelled Postgres table all fail for the same reasons, and knowing all three makes me better at each one.
 
-**Currently** · rebuilding India's passport application flow · daily DSA in C++ · wiring GitHub Actions into everything I ship
+**Right now** · rebuilding India's passport application flow · DSA in C++ every day · putting GitHub Actions behind everything I ship
 
 <br clear="right" />
 
 ---
 
-## What I work with
+## Featured work
+
+**[PassportSeva Redesign](https://github.com/apsquare/-passport_application_experience_redesign)** &nbsp;·&nbsp; <sub>REACT · VITE · CONTEXT API · FLASK</sub>
+
+India's passport application is one long form that punishes a single mistake at the very end. I rebuilt it as six focused steps: progress you can see, answers that save as you go, validation at the moment the error happens, document upload, appointment booking, and a review screen you can export as a PDF before you commit.
+
+**[Campus Lost & Found](https://github.com/apsquare/Campus_Lost_And_Found_Application)** &nbsp;·&nbsp; <sub>REACT · VITE · REACT ROUTER · CONTEXT API</sub>
+
+Every campus has a lost-and-found nobody checks. This one has USN-based auth, item reports, real-time chat between finder and owner, notifications, an admin dashboard, a leaderboard, and resolution tracking that closes the loop when something actually gets returned.
+
+### More work
+
+| Project | Stack | What it does |
+| --- | --- | --- |
+| [**Food Delivery Analytics**](https://github.com/apsquare/food_delivery_analytics_data_engineering_pipeline_on_aws) | Python · AWS | A data-engineering pipeline that turns raw delivery data into analytics-ready tables |
+| [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
+| [**little-cpp-adventures**](https://github.com/apsquare/little-cpp-adventures) | C++ | A problem-solving corner where bugs are expected and edge cases are suspicious |
+| [**mapty**](https://github.com/apsquare/mapty-) | JavaScript · Leaflet | Workout tracker built on geolocation, class-based OOP and interactive maps |
+| [**forkify**](https://github.com/apsquare/forkify) | JavaScript · Sass | Recipe app with API integration, bookmarking, pagination and local storage |
+| [**OmniFood**](https://github.com/apsquare/OmniFood) | HTML · CSS | Responsive layout and typography fundamentals, hand-written |
+
+<sub><strong>CI/CD practice</strong> · <a href="https://github.com/apsquare/git_actions_workflow">git_actions_workflow</a> · <a href="https://github.com/apsquare/github_actions_objects">github_actions_objects</a> · <a href="https://github.com/apsquare/deep_dive">deep_dive</a> — workflows, jobs and contexts, plus a Vite app wired to build on every push</sub>
+
+<sub><strong>Smaller builds</strong> · <a href="https://github.com/apsquare/ChildrensBank">ChildrensBank</a> · <a href="https://github.com/apsquare/RockAndRoll">RockAndRoll</a> · <a href="https://github.com/apsquare/GuessTheNumber">GuessTheNumber</a> · <a href="https://github.com/apsquare/Simon_Game">Simon_Game</a></sub>
+
+---
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=vite" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=tailwindcss" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Python-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=amazonwebservices" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=terraform" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=githubactions" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=cplusplus" alt="C++" />
+</p>
 
 | | |
 | --- | --- |
@@ -50,33 +98,12 @@ Most of what I build starts as something that annoyed me — a form with thirty 
 
 ## Freelance & client work
 
-Sites I have designed and shipped for real clients — brief, build, deploy.
+Sites I have designed, built and shipped for real clients — brief to deploy.
 
 | Client work | Stack | What it is |
 | --- | --- | --- |
 | [**priyankmishra.in**](https://priyankmishra.in) ↗ | HTML · CSS · Vanilla JS · SVG | Portfolio for a Solutions Architect — scroll-driven architecture diagrams, an interactive trade-off explorer and a failure-simulation console, all hand-built |
 | [**cybernate-it**](https://github.com/apsquare/cybernate-it-v1) | React · Vite · CSS Modules | Consultancy website rebuilt around a clean UI, smooth interactions and a scalable component architecture |
-
-<sub><strong>Open to freelance front-end and portfolio builds</strong> — [get in touch](mailto:mail2anantpathak@gmail.com).</sub>
-
----
-
-## Selected work
-
-| Project | Stack | What it does |
-| --- | --- | --- |
-| [**PassportSeva Redesign**](https://github.com/apsquare/-passport_application_experience_redesign) | React · Vite · Context API · Flask | A rethink of India's passport application flow — six focused steps instead of one overwhelming form, with progress tracking, auto-save, validation, document upload, appointment booking and a final review you can export as PDF |
-| [**Campus Lost & Found**](https://github.com/apsquare/Campus_Lost_And_Found_Application) | React · Vite · React Router · Context API | Campus-wide platform with USN-based auth, item reporting, real-time chat between finders and owners, notifications, an admin dashboard, a leaderboard and resolution tracking |
-| [**Food Delivery Analytics**](https://github.com/apsquare/food_delivery_analytics_data_engineering_pipeline_on_aws) | Python · AWS | A data-engineering pipeline that turns raw delivery data into analytics-ready tables |
-| [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
-| [**little-cpp-adventures**](https://github.com/apsquare/little-cpp-adventures) | C++ | A problem-solving corner where bugs are expected and edge cases are suspicious |
-| [**mapty**](https://github.com/apsquare/mapty-) | JavaScript · Leaflet | Workout tracker built on geolocation, class-based OOP and interactive maps |
-| [**forkify**](https://github.com/apsquare/forkify) | JavaScript · Sass | Recipe app with API integration, bookmarking, pagination and local storage |
-| [**OmniFood**](https://github.com/apsquare/OmniFood) | HTML · CSS | Responsive layout and typography fundamentals, hand-written |
-
-<sub><strong>CI/CD practice</strong> · <a href="https://github.com/apsquare/git_actions_workflow">git_actions_workflow</a> · <a href="https://github.com/apsquare/github_actions_objects">github_actions_objects</a> · <a href="https://github.com/apsquare/deep_dive">deep_dive</a> — workflows, jobs and contexts, plus a Vite app wired to build on push</sub>
-
-<sub><strong>Smaller builds</strong> · <a href="https://github.com/apsquare/ChildrensBank">ChildrensBank</a> · <a href="https://github.com/apsquare/RockAndRoll">RockAndRoll</a> · <a href="https://github.com/apsquare/GuessTheNumber">GuessTheNumber</a> · <a href="https://github.com/apsquare/Simon_Game">Simon_Game</a></sub>
 
 ---
 
@@ -89,8 +116,17 @@ Sites I have designed and shipped for real clients — brief, build, deploy.
 
 ---
 
+## Get in touch
+
 <p align="center">
-  <strong>Building something and want a hand with it?</strong><br />
-  <sub>Open to internships, freelance work and collaboration &nbsp;·&nbsp; Bengaluru, or remote</sub><br /><br />
-  <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-E2B26E?style=for-the-badge&logoColor=1B2430" alt="Say hello" /></a>
+  <strong>Hiring an intern, or need a site built?</strong><br />
+  <sub>Open to internships, freelance front-end work and collaboration &nbsp;·&nbsp; Bengaluru, or remote</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:mail2anantpathak@gmail.com"><img src="https://img.shields.io/badge/Email%20me%20at%20mail2anantpathak@gmail.com-E2B26E?style=for-the-badge&logo=gmail&logoColor=1B2430" alt="Email me at mail2anantpathak@gmail.com" /></a>
+</p>
+
+<p align="center">
+  <sub>or find me on <a href="https://www.linkedin.com/in/apsquare/">LinkedIn</a> · <a href="https://x.com/_ap_square_">X</a> · <a href="https://www.youtube.com/@ap_squaree">YouTube</a></sub>
 </p>
