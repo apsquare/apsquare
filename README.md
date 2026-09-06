@@ -44,8 +44,6 @@ Most of what I build starts as something that annoyed me — a form with thirty 
 
 I work across the front end, the cloud and the data layer because they are the same problem seen from three angles. A React component, a containerised deploy and a well-modelled Postgres table all fail for the same reasons, and knowing all three makes me better at each one.
 
-**Right now** · rebuilding India's passport application flow · DSA in C++ every day · putting GitHub Actions behind everything I ship
-
 <br clear="right" />
 
 ---
