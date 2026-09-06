@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#featured-work"><strong>Work</strong></a> &nbsp;·&nbsp;
   <a href="#stack"><strong>Stack</strong></a> &nbsp;·&nbsp;
-  <a href="#freelance--client-work"><strong>Freelance</strong></a> &nbsp;·&nbsp;
+  <a href="#freelance"><strong>Freelance</strong></a> &nbsp;·&nbsp;
   <a href="#get-in-touch"><strong>Contact</strong></a>
 </p>
 
@@ -53,11 +53,14 @@ India's passport application is one long form that punishes a single mistake at 
 
 Every campus has a lost-and-found nobody checks. This one has USN-based auth, item reports, real-time chat between finder and owner, notifications, an admin dashboard, a leaderboard, and resolution tracking that closes the loop when something actually gets returned.
 
+**[Food Delivery Analytics](https://github.com/apsquare/food_delivery_analytics_data_engineering_pipeline_on_aws)** &nbsp;·&nbsp; <sub>PYTHON · AWS</sub>
+
+Raw delivery data is useless until someone models it. This pipeline lands it, cleans it and turns it into analytics-ready tables on AWS — the unglamorous half of every dashboard anyone has ever admired.
+
 ### More work
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**Food Delivery Analytics**](https://github.com/apsquare/food_delivery_analytics_data_engineering_pipeline_on_aws) | Python · AWS | A data-engineering pipeline that turns raw delivery data into analytics-ready tables |
 | [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
 | [**little-cpp-adventures**](https://github.com/apsquare/little-cpp-adventures) | C++ | A problem-solving corner where bugs are expected and edge cases are suspicious |
 | [**mapty**](https://github.com/apsquare/mapty-) | JavaScript · Leaflet | Workout tracker built on geolocation, class-based OOP and interactive maps |
@@ -79,7 +82,7 @@ Every campus has a lost-and-found nobody checks. This one has USN-based auth, it
   <img src="https://img.shields.io/badge/Tailwind-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=tailwindcss" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Python-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=amazonwebservices" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=amazonaws" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=terraform" alt="Terraform" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=githubactions" alt="GitHub Actions" />
@@ -96,14 +99,13 @@ Every campus has a lost-and-found nobody checks. This one has USN-based auth, it
 
 ---
 
-## Freelance & client work
+## Freelance
 
-Sites I have designed, built and shipped for real clients — brief to deploy.
+I also take on client work — design, build and deploy, end to end.
 
-| Client work | Stack | What it is |
-| --- | --- | --- |
-| [**priyankmishra.in**](https://priyankmishra.in) ↗ | HTML · CSS · Vanilla JS · SVG | Portfolio for a Solutions Architect — scroll-driven architecture diagrams, an interactive trade-off explorer and a failure-simulation console, all hand-built |
-| [**cybernate-it**](https://github.com/apsquare/cybernate-it-v1) | React · Vite · CSS Modules | Consultancy website rebuilt around a clean UI, smooth interactions and a scalable component architecture |
+**[priyankmishra.in](https://priyankmishra.in)** ↗ &nbsp;·&nbsp; <sub>HTML · CSS · VANILLA JS · SVG</sub>
+
+A portfolio for a Solutions Architect, hand-built without a framework: scroll-driven architecture diagrams, an interactive trade-off explorer, and a failure-simulation console you can click components out of to watch the blast radius.
 
 ---
 
