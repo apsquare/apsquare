@@ -1,35 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="132" viewBox="0 0 860 132" role="img" aria-label="Interface to service to pipeline to store — the path data takes through the systems I build">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="The path data takes: React to Node or Flask to Airflow and dbt to Postgres">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#151C24"/>
+      <stop offset="0.5" stop-color="#2E3945"/>
+      <stop offset="1" stop-color="#151C24"/>
+    </linearGradient>
+    <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
   <style>
-    .lbl { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 12px; letter-spacing: 1.6px; fill: #8B949E; }
-    .cap { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px; letter-spacing: 2.4px; fill: #5B6570; }
-    .stn { fill: #11161D; stroke: #E2B26E; stroke-width: 2; }
-    .dot { fill: #E2B26E; }
+    .lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 10.5px; letter-spacing: 3px; fill: #6B7683; }
+    .cap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; font-size: 9.5px; letter-spacing: 4px; fill: #454E58; }
   </style>
-  <rect width="860" height="132" rx="10" fill="#11161D"/>
-  <text class="cap" x="34" y="30">THE PATH DATA TAKES</text>
 
-  <line x1="70" y1="72" x2="790" y2="72" stroke="#2A323C" stroke-width="2"/>
+  <rect width="880" height="150" rx="14" fill="#0D1218"/>
+  <rect x="0.5" y="0.5" width="879" height="149" rx="13.5" fill="none" stroke="#1B232C"/>
 
-  <circle class="stn" cx="70"  cy="72" r="7"/>
-  <circle class="stn" cx="310" cy="72" r="7"/>
-  <circle class="stn" cx="550" cy="72" r="7"/>
-  <circle class="stn" cx="790" cy="72" r="7"/>
+  <text class="cap" x="40" y="36">THE PATH DATA TAKES</text>
 
-  <text class="lbl" x="70"  y="103" text-anchor="middle">REACT</text>
-  <text class="lbl" x="310" y="103" text-anchor="middle">NODE / FLASK</text>
-  <text class="lbl" x="550" y="103" text-anchor="middle">AIRFLOW · DBT</text>
-  <text class="lbl" x="790" y="103" text-anchor="middle">POSTGRES</text>
+  <line x1="80" y1="84" x2="800" y2="84" stroke="url(#rail)" stroke-width="1.5"/>
 
-  <circle class="dot" cx="70" cy="72" r="4">
-    <animate attributeName="cx" values="70;790" dur="4.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.2s" repeatCount="indefinite"/>
+  <circle cx="80" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.02;0.18;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.03;0.18;1"/>
   </circle>
-  <circle class="dot" cx="70" cy="72" r="4">
-    <animate attributeName="cx" values="70;790" dur="4.2s" begin="1.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.2s" begin="1.4s" repeatCount="indefinite"/>
+  <circle cx="320" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.26;0.42;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.27;0.42;1"/>
   </circle>
-  <circle class="dot" cx="70" cy="72" r="4">
-    <animate attributeName="cx" values="70;790" dur="4.2s" begin="2.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.2s" begin="2.8s" repeatCount="indefinite"/>
+  <circle cx="560" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.54;0.70;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.55;0.70;1"/>
   </circle>
+  <circle cx="800" cy="84" r="4.5" fill="none" stroke="#E2B26E" stroke-width="1" opacity="0">
+    <animate attributeName="r" dur="8s" repeatCount="indefinite" values="4.5;4.5;18;18" keyTimes="0;0.82;0.98;1" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.2 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0.5;0;0" keyTimes="0;0.83;0.98;1"/>
+  </circle>
+
+  <circle cx="80"  cy="84" r="4.5" fill="#0D1218" stroke="#E2B26E" stroke-width="1.4"/>
+  <circle cx="320" cy="84" r="4.5" fill="#0D1218" stroke="#E2B26E" stroke-width="1.4"/>
+  <circle cx="560" cy="84" r="4.5" fill="#0D1218" stroke="#E2B26E" stroke-width="1.4"/>
+  <circle cx="800" cy="84" r="4.5" fill="#0D1218" stroke="#E2B26E" stroke-width="1.4"/>
+
+  <circle cx="80" cy="84" r="3.2" fill="#E2B26E" filter="url(#glow)">
+    <animate attributeName="cx" dur="8s" begin="0s" repeatCount="indefinite" values="80;80;320;320;560;560;800;800" keyTimes="0;0.06;0.26;0.34;0.54;0.62;0.82;1" calcMode="spline" keySplines="0 0 1 1;0.45 0 0.15 1;0 0 1 1;0.45 0 0.15 1;0 0 1 1;0.45 0 0.15 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" begin="0s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.05;0.86;1"/>
+  </circle>
+  <circle cx="80" cy="84" r="3.2" fill="#E2B26E" filter="url(#glow)">
+    <animate attributeName="cx" dur="8s" begin="4s" repeatCount="indefinite" values="80;80;320;320;560;560;800;800" keyTimes="0;0.06;0.26;0.34;0.54;0.62;0.82;1" calcMode="spline" keySplines="0 0 1 1;0.45 0 0.15 1;0 0 1 1;0.45 0 0.15 1;0 0 1 1;0.45 0 0.15 1;0 0 1 1"/>
+    <animate attributeName="opacity" dur="8s" begin="4s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.05;0.86;1"/>
+  </circle>
+
+  <text class="lbl" x="80"  y="118" text-anchor="middle">REACT</text>
+  <text class="lbl" x="320" y="118" text-anchor="middle">NODE / FLASK</text>
+  <text class="lbl" x="560" y="118" text-anchor="middle">AIRFLOW · DBT</text>
+  <text class="lbl" x="800" y="118" text-anchor="middle">POSTGRES</text>
 </svg>
