@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="The path data takes: React to Node or Flask to Airflow and dbt to Postgres">
   <defs>
-    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+        <linearGradient id="rail" gradientUnits="userSpaceOnUse" x1="80" y1="84" x2="800" y2="84">
       <stop offset="0" stop-color="#232D38"/>
       <stop offset="0.5" stop-color="#4A5766"/>
       <stop offset="1" stop-color="#232D38"/>
