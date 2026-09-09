@@ -67,7 +67,6 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
 | Project | Stack | What it does |
 | --- | --- | --- |
 | [**little-cpp-adventures**](https://github.com/apsquare/little-cpp-adventures) | C++ | A problem-solving corner where bugs are expected and edge cases are suspicious |
-| [**cpp_problem_sets**](https://github.com/apsquare/cpp_problem_sets) | C++ | DSA solutions kept organised by difficulty, so past work stays useful |
 | [**mapty**](https://github.com/apsquare/mapty-) | JavaScript · Leaflet | Workout tracker built on geolocation, class-based OOP and interactive maps |
 | [**forkify**](https://github.com/apsquare/forkify) | JavaScript · Sass | Recipe app with API integration, bookmarking, pagination and local storage |
 | [**OmniFood**](https://github.com/apsquare/OmniFood) | HTML · CSS | Responsive layout and typography fundamentals, hand-written |
