@@ -103,7 +103,7 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
   <img src="https://img.shields.io/badge/Docker-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=terraform" alt="Terraform" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=githubactions" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Figma-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=figma" alt="Figma" />
+  
   <img src="https://img.shields.io/badge/C%2B%2B-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=cplusplus" alt="C++" />
 </p>
 
