@@ -84,7 +84,6 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
 </details>
 
 ---
-
 ## Stack
 
 <p align="center">
@@ -97,21 +96,26 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
   <img src="https://img.shields.io/badge/Node.js-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=nodedotjs" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=tailwindcss" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Python-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=openjdk" alt="Java" />
   <img src="https://img.shields.io/badge/PostgreSQL-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PySpark-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=apachespark" alt="PySpark" />
   <img src="https://img.shields.io/badge/AWS-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=amazonaws" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=terraform" alt="Terraform" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=githubactions" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Figma-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=figma" alt="Figma" />
   <img src="https://img.shields.io/badge/C%2B%2B-1B2430?style=flat-square&color=1B2430&logoColor=E2B26E&logo=cplusplus" alt="C++" />
 </p>
 
 | | |
 | --- | --- |
-| **Full-stack** | React · Vite · Redux · Tailwind · Node.js · Flask · JavaScript · HTML · CSS |
+| **Languages** | C · C++ · Java · Python · JavaScript · SQL |
+| **Full-stack** | React · Vite · Redux · Tailwind · Sass · Node.js · Flask · HTML · CSS |
 | **Cloud & DevOps** | AWS · Docker · Terraform · GitHub Actions · Linux · CI/CD |
-| **Data engineering** | Python · SQL · PostgreSQL · Airflow · dbt · Snowflake · Pandas |
-| **Foundations** | C · C++ · Java · OOP · Testing & debugging · DSA |
-| **Tools** | Git · GitHub · VS Code · IntelliJ IDEA · PyCharm |
+| **Data engineering** | PostgreSQL · PySpark · Boto3 · Airflow · dbt · Snowflake · Pandas |
+| **Foundations** | OOP · DSA · Testing & debugging |
+| **Design & tools** | Figma · Git · GitHub · VS Code · IntelliJ IDEA · PyCharm · Visual Studio · CodeLite |
+
 
 ---
 
