@@ -115,15 +115,6 @@ Raw delivery data is useless until someone models it. This pipeline lands it, cl
 
 ---
 
-## Freelance
-
-I also take on client work — design, build and deploy, end to end.
-
-**[priyankmishra.in](https://priyankmishra.in)** ↗ &nbsp;·&nbsp; <sub>HTML · CSS · VANILLA JS · SVG</sub>
-
-A portfolio for a Solutions Architect, hand-built without a framework: scroll-driven architecture diagrams, an interactive trade-off explorer, and a failure-simulation console you can click components out of to watch the blast radius.
-
----
 
 ## How I practise
 
